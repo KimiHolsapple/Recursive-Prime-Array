@@ -1,0 +1,2 @@
+# Recursive-Prime-Array
+Program takes a user-specified array of integers under size 16 (inclusive) and checks for any composite numbers. If a composite number is found program outputs that the array is not prime. Otherwise, the array consists of only prime numbers.  This is done via two functions. One uses iteration and the other, recursion, in order to highlight the difference between methods. Output prints and shows function behavior and calls.
